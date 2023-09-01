@@ -19,4 +19,5 @@ admin.site.register(Customer)
 admin.site.register(Order)
 
 
-# username = Tanushree, email = tanushree7252@gmail.com, password = 1234
+# username = geeta, email = gharanatti@gmail.com, password = chethana
+
